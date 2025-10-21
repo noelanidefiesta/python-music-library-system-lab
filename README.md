@@ -1,3 +1,10 @@
+# Music Library System Lab
+
+This repository contains an implementation of a `Song` class for the Music Library System lab.
+
+![tests passing](./tests_passing.png)
+
+
 # Lab: Inheritance, Class Attributes, and Class Methods- Music Library System
 
 Now that you’ve delved into creating class attributes and methods it is time to put these concepts to the test. In this lab our focus will be on a song class that will include several class attributes and methods.
